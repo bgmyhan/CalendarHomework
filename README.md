@@ -1,2 +1,3 @@
-# CalendarHomework
-Check Repo Name
+# CodingQuiz
+Homework Assignment
+Grader: Peter Park
